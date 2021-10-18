@@ -1,0 +1,15 @@
+{
+    "name": "labad/injection",
+    "autoload": {
+        "psr-4": {
+            "Labad\\Injection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sesax",
+            "email": "labadiepierre59400@gmail.com"
+        }
+    ],
+    "require": {}
+}

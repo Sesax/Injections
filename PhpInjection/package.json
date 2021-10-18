@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "gulp-phpunit": "^0.26.0"
+  }
+}
